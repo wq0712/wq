@@ -46,4 +46,5 @@ else
 {
   echo "<script>alert('只允许上传gif、jpg、png、pdf、txt、doc、ppt、xls文件!'); history.go(-1);</script>";
 }
+
 ?>
