@@ -24,7 +24,7 @@
 
             if($row)
             {
-                include "upload.html";
+                include "Welcome.php";
             }
             else
             {
