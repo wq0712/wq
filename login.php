@@ -7,5 +7,3 @@
         
     <a href="register.php">注册</a>
 </form>
-
-
