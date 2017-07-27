@@ -12,6 +12,5 @@ enctype="multipart/form-data">
 <br />
 <input type="submit" name="submit" value="上传" />
 </form>
-
 </body>
 </html>
